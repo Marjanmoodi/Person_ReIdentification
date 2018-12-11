@@ -8,7 +8,7 @@ In this figure you can see the query image and preprocossing on it (first row) a
 ![first sample](https://github.com/Marjanmoodi/Person_ReIdentification/blob/master/Result/output1.png)
 ![Second sample](https://github.com/Marjanmoodi/Person_ReIdentification/blob/master/Result/output2.png)
 
-## Description
+## Reference
 An appearance-based method for person re-identification. An Implementation of [this paper](https://ieeexplore.ieee.org/abstract/document/5539926/) with C++ and OpenCV.
 
 
